@@ -1,0 +1,344 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 392,
+      "max": [
+        27,
+        -16.055000305175781,
+        -8.0869998931884766
+      ],
+      "min": [
+        23.843399047851562,
+        -24.221000671386719,
+        -22.038000106811523
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4704,
+      "componentType": 5126,
+      "count": 392,
+      "max": [
+        0.92573744058609009,
+        0.99989360570907593,
+        0.92383670806884766
+      ],
+      "min": [
+        -0.92492139339447021,
+        -1,
+        -0.92406469583511353
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 1140,
+      "max": [
+        391
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 9408,
+      "componentType": 5126,
+      "count": 2163,
+      "max": [
+        26.558000564575195,
+        0.00050000002374872565,
+        -5
+      ],
+      "min": [
+        6.5580000877380371,
+        -29.49370002746582,
+        -25
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 35364,
+      "componentType": 5126,
+      "count": 2163,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 4560,
+      "componentType": 5125,
+      "count": 9570,
+      "max": [
+        2162
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 61320,
+      "componentType": 5126,
+      "count": 226,
+      "max": [
+        26.649999618530273,
+        -18.096000671386719,
+        -9.4040002822875977
+      ],
+      "min": [
+        25.242099761962891,
+        -22.180000305175781,
+        -20.721000671386719
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 64032,
+      "componentType": 5126,
+      "count": 226,
+      "max": [
+        0.92412924766540527,
+        1,
+        0.92388302087783813
+      ],
+      "min": [
+        -0.38262709975242615,
+        -1,
+        -0.92391413450241089
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 42840,
+      "componentType": 5125,
+      "count": 648,
+      "max": [
+        225
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Yo Boy (https://sketchfab.com/jratanatharathorn)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/blinky-from-pacman-47c0f24b17c943b790084545b0403047",
+      "title": "Blinky from Pacman"
+    },
+    "generator": "Sketchfab-9.60.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 45432,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 66744,
+      "byteOffset": 45432,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 112176,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "color_14541540",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.86666699999999997,
+          0.88627500000000003,
+          0.89411799999999997,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "color_15277357",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.91372500000000001,
+          0.11372500000000001,
+          0.17647099999999999,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "color_30377",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0,
+          0.46274500000000002,
+          0.66274500000000003,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        -2.2204460492503131e-16,
+        -1,
+        1.1102230246251565e-16,
+        0,
+        1.1102230246251565e-16,
+        -2.2204460492503131e-16,
+        -1,
+        0,
+        1,
+        -1.1102230246251565e-16,
+        0,
+        0,
+        31.778932571411133,
+        2.0324747562408447,
+        -29.746458053588867,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4,
+        5
+      ],
+      "name": "tinker.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    },
+    {
+      "mesh": 2,
+      "name": ""
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
